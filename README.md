@@ -1,2 +1,2 @@
-# PascalPrograma
-Calculadora em pascal / curso ADS Senac 2024
+## PascalPrograma
+Calculadora em pascal - curso ADS Senac 2024.
